@@ -92,9 +92,9 @@ function App() {
             </div>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="https://discord.gg/archon" className="text-zinc-500 hover:text-white transition-colors">Discord</a>
-              {/* <a href="#" className="text-zinc-500 hover:text-white transition-colors">Games</a>
-              <a href="#" className="text-zinc-500 hover:text-white transition-colors">Events</a>
-              <a href="#" className="text-zinc-500 hover:text-white transition-colors">Rules</a> */}
+              <a href="https://www.roblox.com/communities/13767960/Archons-Era#!/about" className="text-zinc-500 hover:text-white transition-colors">Roblox Group</a>
+              <a href="https://archonstww.fandom.com/wiki/Archons_Wiki" className="text-zinc-500 hover:text-white transition-colors">Wiki</a>
+              {/* <a href="#" className="text-zinc-500 hover:text-white transition-colors">Rules</a> */}
             </div>
           </div>
         </div>
